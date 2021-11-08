@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/loopstudios/static/css/main.6fda689e.chunk.css",
+    "main.js": "/loopstudios/static/js/main.6533deea.chunk.js",
+    "main.js.map": "/loopstudios/static/js/main.6533deea.chunk.js.map",
+    "runtime-main.js": "/loopstudios/static/js/runtime-main.35a3ab08.js",
+    "runtime-main.js.map": "/loopstudios/static/js/runtime-main.35a3ab08.js.map",
+    "static/js/2.02ea32c5.chunk.js": "/loopstudios/static/js/2.02ea32c5.chunk.js",
+    "static/js/2.02ea32c5.chunk.js.map": "/loopstudios/static/js/2.02ea32c5.chunk.js.map",
+    "static/js/3.3aff3482.chunk.js": "/loopstudios/static/js/3.3aff3482.chunk.js",
+    "static/js/3.3aff3482.chunk.js.map": "/loopstudios/static/js/3.3aff3482.chunk.js.map",
+    "index.html": "/loopstudios/index.html",
+    "static/css/main.6fda689e.chunk.css.map": "/loopstudios/static/css/main.6fda689e.chunk.css.map",
+    "static/js/2.02ea32c5.chunk.js.LICENSE.txt": "/loopstudios/static/js/2.02ea32c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35a3ab08.js",
+    "static/js/2.02ea32c5.chunk.js",
+    "static/css/main.6fda689e.chunk.css",
+    "static/js/main.6533deea.chunk.js"
+  ]
+}
