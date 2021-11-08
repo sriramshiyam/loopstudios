@@ -1,0 +1,39 @@
+.hero {
+  height: 47rem;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.hero h1 {
+  margin-left: 8%;
+  font-size: 4rem;
+  color: white;
+  line-height: 1.4;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  position: relative;
+  letter-spacing: 0.2rem;
+}
+
+.hero .line {
+  position: absolute;
+  border: 3px solid white;
+  top: 0;
+  left: 0;
+}
+
+@media screen and (max-width: 720px) {
+  .hero {
+    height: 35rem;
+  }
+  .hero h1 {
+    font-size: 2rem;
+  }
+}

@@ -1,24 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import Content from './components/Content';
+import Footer from './components/Footer';
+import Grid from './components/Grid';
+import Header from './components/Header';
+import Hero from './components/Hero';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header />
+      <Hero />
+      <Content />
+      <Grid />
+      <Footer />
+      <div class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="blank"
+        >Frontend Mentor</a
+        >. Coded by
+        <a href="https://github.com/sriramshiyam" target="blank">Sriram</a>.
+      </div>
+    </>
   );
 }
 
